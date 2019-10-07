@@ -10,5 +10,3 @@ puts saying
 return saying
 
 end
-
-
