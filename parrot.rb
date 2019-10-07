@@ -8,13 +8,9 @@ def parrot
 end
 
 def parrot(saying)
-  if saying != nil
+  
 puts saying
 return saying
-else
-  puts "Squawk!"
-  return "Squawk!"
 
-end
 
 end
