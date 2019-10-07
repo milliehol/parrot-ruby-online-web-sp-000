@@ -4,7 +4,7 @@
 
 
 
-def parrot(saying="Squawk")
+def parrot(saying="Squawk!")
 
 puts saying
 return saying
