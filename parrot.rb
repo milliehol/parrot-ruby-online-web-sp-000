@@ -2,8 +2,12 @@
 # returns the phrase
 
 def parrot(saying)
+  if saying == nil
 puts saying
 return saying
+else
+  puts "Squawk!"
+  return "Squawk!"
 
 
 
