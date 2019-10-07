@@ -4,11 +4,11 @@ def parrot
 
   puts "Squawk!"
   return "Squawk!"
-  
+
 end
 
 def parrot(saying)
-  
+
 puts saying
 return saying
 
