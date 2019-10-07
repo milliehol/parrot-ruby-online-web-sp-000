@@ -4,7 +4,7 @@
 
 
 
-def parrot(saying)
+def parrot(saying="Squawk")
 
 puts saying
 return saying
@@ -12,9 +12,3 @@ return saying
 end
 
 
-def parrot
-
-  puts "Squawk!"
-  return "Squawk!"
-
-end
